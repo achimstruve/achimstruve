@@ -1,8 +1,7 @@
 ### Welcome 👋
 
-- 🔭 I’m currently working on the Quantitative Token Model
-- 👯 I’m looking to collaborate on the [Quantitative Token Model](https://github.com/OutlierVentures/QTM-Interface)
-- 💬 Ask me about Python, Solidity, Token Economies/Distributions/Incentives/Designs/Engineering, Liquidity, DeFi, GameFi, Web3 Business, Marketing, Blockchain Tech, ..
+- 🔭 I’m currently working on AI agents and the Quantitative Token Model
+- 💬 Ask me about Python, Solidity, AI, AI Agents, Token Economies/Distributions/Incentives/Designs/Engineering, Liquidity, DeFi, GameFi, Web3 Business, Marketing, Blockchain Tech, ..
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=achimstruve)](https://github.com/anuraghazra/github-readme-stats) -->
 
