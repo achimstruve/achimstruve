@@ -1,7 +1,7 @@
 ### Welcome 👋
 
-- 🔭 I’m currently working on AI agents and the Quantitative Token Model
-- 💬 Ask me about Python, Solidity, AI, AI Agents, Token Economies/Distributions/Incentives/Designs/Engineering, Liquidity, DeFi, GameFi, Web3 Business, Marketing, Blockchain Tech, ..
+- 🔭 I’m currently working on AI / ML and crypto economics
+- 💬 Ask me about Python, Solidity, AI, AI Agents, Machine Learning, Token Economies/Distributions/Incentives/Designs/Engineering, Liquidity, DeFi, GameFi, Web3 Business, Marketing, Blockchain Tech, ..
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=achimstruve)](https://github.com/anuraghazra/github-readme-stats) -->
 
