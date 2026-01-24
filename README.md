@@ -65,6 +65,18 @@ Optimal control theory applied to decentralized infrastructure networks. Models 
 
 **Tech:** Python, radCAD, Streamlit | **Focus:** Incentive mechanism optimization
 
+### TellMe - Email to Podcast Converter
+[![Live](https://img.shields.io/badge/Live-tellme.agenovation.ai-00C853?style=flat)](https://tellme.agenovation.ai)
+
+Full-stack application transforming email newsletters into AI-powered podcasts. Gmail OAuth integration syncs emails, OpenRouter AI optimizes content for audio, and Google Cloud TTS generates high-quality narration.
+
+**Tech:** FastAPI, React, Docker, OpenRouter, Google Cloud TTS | **Features:** Gmail sync, real-time job processing, HTTPS deployment
+
+### Portfolio Monitoring Agent
+AI-powered system monitoring X posts from 239 portfolio companies, analyzing with LLMs, and forwarding important news to Slack. Includes conversational agent for querying portfolio data via natural language.
+
+**Tech:** Claude API, LangGraph, BigQuery, X API, Slack API | **Features:** Priority filtering, deduplication, 6-hour sync cycles
+
 ---
 
 ## Technical Expertise
