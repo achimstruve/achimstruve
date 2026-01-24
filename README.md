@@ -69,21 +69,15 @@ Optimal control theory applied to decentralized infrastructure networks. Models 
 
 ## Technical Expertise
 
-```
-AI/LLM Systems       ████████████████████  Expert
-Reinforcement Learning████████████████░░░░  Advanced
-Quantitative Modeling████████████████████  Expert
-Economic Mechanisms  ████████████████████  Expert
-Python               ████████████████████  Expert
-```
+| Domain | Level | Tools & Methods |
+|--------|-------|-----------------|
+| **AI/LLM Systems** | Expert | Claude API, GPT API, LangChain/LangGraph, Multi-Agent Systems |
+| **Reinforcement Learning** | Advanced | PPO, Policy Gradients, PyTorch, Gymnasium |
+| **Quantitative Modeling** | Expert | Monte Carlo, Sensitivity Analysis, Agent-Based Modeling |
+| **Economic Mechanisms** | Expert | cadCAD/radCAD, Incentive Design, Network Dynamics |
+| **Python** | Expert | NumPy, Pandas, scikit-learn, Streamlit, FastAPI |
 
-**AI/ML:** Claude API, GPT API, LangChain/LangGraph, Multi-Agent Systems, PPO/Policy Gradients, PyTorch
-
-**Core Stack:** Python (NumPy, Pandas, scikit-learn, cadCAD/radCAD), SQL, Streamlit, FastAPI
-
-**Data & Simulation:** BigQuery, Monte Carlo Methods, Sensitivity Analysis, Agent-Based Modeling
-
-**Web3:** web3.py, Dune Analytics, The Graph, On-chain Analysis, DeFi Protocol Integration
+**Data:** BigQuery, SQL, Dune Analytics, The Graph, On-chain Analysis
 
 ---
 
