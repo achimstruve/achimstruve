@@ -66,7 +66,6 @@ Optimal control theory applied to decentralized infrastructure networks. Models 
 **Tech:** Python, radCAD, Streamlit | **Focus:** Incentive mechanism optimization
 
 ### TellMe - Email to Podcast Converter
-[![Live](https://img.shields.io/badge/Live-tellme.agenovation.ai-00C853?style=flat)](https://tellme.agenovation.ai)
 
 Full-stack application transforming email newsletters into AI-powered podcasts. Gmail OAuth integration syncs emails, OpenRouter AI optimizes content for audio, and Google Cloud TTS generates high-quality narration.
 
