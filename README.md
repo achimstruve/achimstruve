@@ -76,8 +76,7 @@ Optimal control theory applied to decentralized infrastructure networks. Models 
 | **Quantitative Modeling** | Expert | Monte Carlo, Sensitivity Analysis, Agent-Based Modeling |
 | **Economic Mechanisms** | Expert | cadCAD/radCAD, Incentive Design, Network Dynamics |
 | **Python** | Expert | NumPy, Pandas, scikit-learn, Streamlit, FastAPI |
-
-**Data:** BigQuery, SQL, Dune Analytics, The Graph, On-chain Analysis
+| **Cloud & Data** | Advanced | GCP (BigQuery, Compute Engine, Cloud Functions), SQL, Dune Analytics |
 
 ---
 
